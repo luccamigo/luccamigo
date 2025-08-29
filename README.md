@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucca Amigo
 
-<!--
-**luccamigo/luccamigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student at CEFET-RJ** and currently working at the **17th Notary Office in Rio de Janeiro**, where I develop automation solutions to improve legal processes.  
 
-Here are some ideas to get you started:
+## 💼 What I work with
+- Development of **automation systems** for notary workflows  
+- Building **public deed templates** with Python, JSON, and Microsoft SharePoint  
+- Creating **dynamic forms** and document generation tools  
+- Integrating systems with **Power Automate** and **Azure AD**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+- **Software engineering** (React, Python, Java, C++)  
+- **Data analysis** and visualization  
+- **Automation** of repetitive workflows  
+- **Graph theory and algorithms**  
+- **Web development** (Laravel, Flask, REST APIs)  
+- **Cloud services** and system integration  
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/luccaamigo](https://linkedin.com/in/luccaamigo)
+- GitHub: [github.com/luccamigo](https://github.com/luccamigo)
