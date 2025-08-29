@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucca Amigo
 
-I'm a **Computer Science student at CEFET-RJ** and currently working at the **17th Notary Office in Rio de Janeiro**, where I develop automation solutions to improve legal processes.  
+I'm a **Computer Science student at CEFET-RJ**
 
 ## 💻 Technologies I work with
 I'm always eager to learn new technologies and expand my skill set.  
